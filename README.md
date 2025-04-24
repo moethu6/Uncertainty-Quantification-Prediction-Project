@@ -1,0 +1,1 @@
+This is the IUQ Final Project of Kaichen Shen, Moe Kyaw Thu, and Srikar Viswanatha. We have included our BNN Model implementation, our code for data preprocessing, our datasets, our notebooks for running the model on each individual stock, and our code for SDE Exploratory Data Analysis. 
